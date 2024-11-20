@@ -47,7 +47,7 @@ local function callback(Text)
 
         -- Check if setclipboard is available in your environment (note: this won't work in standard Roblox)
         if setclipboard then
-            setclipboard("https://discord.gg/5SuUPkDNaR")
+            setclipboard("https://discord.gg/xS2hyxhSMR")
         end
 
         -- Send another notification to inform the player
