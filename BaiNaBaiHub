@@ -79,7 +79,7 @@ game.StarterGui:SetCore("SendNotification",  {
 Title = "Bai na Bai Hub";
 Text = "This script cracked by 220cd";
 TextColor3 = Color3.new(1, 0, 0); -- rgb(255, 0, 0) normalized
-Icon = "rbxassetid://2945464184"; -- Ensure this asset ID is valid
+Icon = "rbxassetid://74578389320184"; -- Ensure this asset ID is valid
 Duration = 86400;
 Callback = NotificationBindable;
 })
