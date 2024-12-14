@@ -66,10 +66,10 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 
 game.StarterGui:SetCore("SendNotification",  {
-Title = "Store";
+Title = "Rome's Basement";
 Text = "Buy boosting service here";
 TextColor3 = Color3.new(1, 0, 0); -- rgb(255, 0, 0) normalized
-Icon = "rbxassetid://74578389320184"; -- Ensure this asset ID is valid
+Icon = "rbxassetid://114320851756498"; -- Ensure this asset ID is valid
 Duration = 3600;
 Button1 = "Join Server!";
 Callback = NotificationBindable;
@@ -79,7 +79,7 @@ game.StarterGui:SetCore("SendNotification",  {
 Title = "Bai na Bai Hub";
 Text = "This script cracked by 220cd";
 TextColor3 = Color3.new(1, 0, 0); -- rgb(255, 0, 0) normalized
-Icon = "rbxassetid://74578389320184"; -- Ensure this asset ID is valid
+Icon = "rbxassetid://114320851756498"; -- Ensure this asset ID is valid
 Duration = 60;
 Callback = NotificationBindable;
 })
