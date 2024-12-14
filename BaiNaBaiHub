@@ -70,7 +70,7 @@ Title = "Store";
 Text = "Buy boosting service here";
 TextColor3 = Color3.new(1, 0, 0); -- rgb(255, 0, 0) normalized
 Icon = "rbxassetid://74578389320184"; -- Ensure this asset ID is valid
-Duration = 60;
+Duration = 3600;
 Button1 = "Join Server!";
 Callback = NotificationBindable;
 })
